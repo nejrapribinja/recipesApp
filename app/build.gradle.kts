@@ -86,4 +86,6 @@ dependencies {
     implementation("androidx.media3:media3-common:1.3.1")
     debugImplementation("androidx.compose.ui:ui-test-manifest")
     debugImplementation("androidx.compose.ui:ui-tooling")
+    implementation("androidx.compose.material3:material3-window-size-class-android:1.2.1")
+    implementation("androidx.navigation:navigation-compose:2.7.4")
 }
