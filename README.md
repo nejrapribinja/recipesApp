@@ -1,4 +1,4 @@
-Amphibians app
+Recipes app
 ==================================
 
 Code for Android Basics with Compose Practice Set.
